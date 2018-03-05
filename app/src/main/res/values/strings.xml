@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SE2_SingleProject</string>
+
+    <string name="palindrome">Palindrome?</string>
+    <string name="enterString">Eingabe String: </string>
+    <string name="checkString">Check String</string>
+
+    <string name="hntStringLength">String >= 5 Zeichen</string>
+
+    <string name="msgLengthError">Der eigegebene String is zu kurz</string>
+    <string name="msgSuccess">Der eigegebene String ist ein Palindrom!</string>
+    <string name="msgNoPalindrome">Der eigegebene String ist kein Palindrom!</string>
+    <string name="msgNoInput">Bitte geben Sie einen String ein</string>
+</resources>
